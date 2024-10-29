@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/.Computer Lau/P3_ESP32/uart_repl/build/CMakeFiles/bootloader
+E:/.Computer Lau/P3_ESP32/uart_repl/build/CMakeFiles/bootloader.rule
+E:/.Computer Lau/P3_ESP32/uart_repl/build/CMakeFiles/bootloader-complete.rule
+E:/.Computer Lau/P3_ESP32/uart_repl/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/.Computer Lau/P3_ESP32/uart_repl/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/.Computer Lau/P3_ESP32/uart_repl/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/.Computer Lau/P3_ESP32/uart_repl/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/.Computer Lau/P3_ESP32/uart_repl/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/.Computer Lau/P3_ESP32/uart_repl/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/.Computer Lau/P3_ESP32/uart_repl/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
